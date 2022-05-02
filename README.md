@@ -8,4 +8,3 @@ Visualizing the size of the backlog of [Requested Move discussions on Wikipedia]
 - `date`: Date of this observation. Numbers correspond specifically to the earliest revision of WP:RMTABLE that falls on this date.
 
 `visualizations.ipynb` is an IPython notebook that generates some visualizations from this data using Seaborn/Matplotlib/Pandas.
-- 
